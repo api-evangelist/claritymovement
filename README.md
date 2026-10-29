@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Claritymovement is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/claritymovement
+Claritymovement (Clarity Movement Co.) provides low‑cost air quality monitoring hardware and cloud‑based data services. Leveraging IoT sensors, data analytics, and a global network, they enable governments, businesses, and communities to measure and improve air quality. Their solutions include multi‑gas modules, wind modules, black‑carbon and dust sensors, and a SaaS platform for real‑time monitoring, reporting, and compliance across 85+ countries.
+
+**Areas:** Company · Air Quality · IoT · Sensors · Data Analytics
+
+## Claritymovement on APIs.io
+
+Everything profiled for Claritymovement is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/claritymovement/](https://apis.io/providers/claritymovement/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Claritymovement API](https://apis.io/apis/claritymovement/claritymovement-api-2/) — Claritymovement provides air quality monitoring hardware and cloud data services.
+- [Claritymovement Report Requests API](https://apis.io/apis/claritymovement/claritymovement-report-requests-api/) — The Report Requests API from Claritymovement — 2 operation(s) for report requests.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GetV2ReportRequestsReportidResponse](https://apis.io/schemas/claritymovement/claritymovement-get-v2-report-requests-reportid-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Claritymovement Context](https://apis.io/jsonld/claritymovement/claritymovement-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Claritymovement API Rules](https://apis.io/rules/claritymovement/claritymovement-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Claritymovement Domain Security](https://apis.io/security/claritymovement/claritymovement-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.clarity.io)
+- [Documentation](https://api-docs.clarity.io/)
+- [Getting started](https://api-docs.clarity.io/getting-started.html)
+- [Sign up](https://www.clarity.io/landing-pages/register-for-awma-panel-best-practices-for-the-use-of-low-cost-sensors-to-expand-air-quality-monitoring-coverage-in-the-urban-environment)
+- [Support](https://help.clarity.io/)
+- [Blog](https://www.clarity.io/blog)
+- [Privacy policy](https://www.clarity.io/privacy-consent-pages/privacy-policy)
+- [Status](https://status.clarity.io/)
+
+## API Evangelist rating
+
+**Kin Score 28.5** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 17.8 |
+| Contract governance | 22.0 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 23.7 |
+
+**Agent readiness 16.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/claritymovement/](https://apis.io/providers/claritymovement/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Claritymovement: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/claritymovement/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
